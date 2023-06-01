@@ -1,0 +1,83 @@
+*{
+    margin: auto;
+}
+body{
+    background-color: #99FFCC;
+}
+div{
+    width: 1000px;
+}
+header{
+    height: 200px;
+    background-color: #99FF66;
+}
+nav{
+    background-color: #66CCFF;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+nav ul li a{
+    color: #006666;
+    margin: 50px;
+    text-decoration: none;
+    
+}
+nav ul li{
+    display: inline;
+    font-size: 200%;
+}
+.pierwszy{
+    display: block;
+    float: left;
+    display: block;
+    width: 310px;
+    margin: 10px;
+    height: 300px;
+    text-align: center;
+}
+.drugi{
+    display: block;
+    float: left;
+    width: 310px;
+    margin: 10px;
+    height: 300px;
+    text-align: center;
+}
+.trzeci{
+    display: block;
+    float: right;
+    width: 310px;
+    margin: 10px;
+    height: 300px;
+    text-align: center;
+}
+footer{
+    margin-top: 300px;
+    background-color: #66CCFF;
+    color: #006666;
+    text-align: right;
+    height: 30px;
+    padding: 20px;
+}
+h2 h3{
+    text-align: center;
+}
+.Reset{
+    background-color: #FF0000;
+}
+.Przeslij{
+    background-color: #00FF00;
+}
+#jeden{
+    width: 150px; text-align: center; display: inline;
+}
+#dwa{
+     width: 150px; text-align: center; display: inline;
+}
+#trzy{
+    width: 150px; text-align: center; display: inline;
+}
+#cztery{
+     width: 200px; text-align: center; display: inline;
+}
